@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SharpNetCraftTest/1.0.0": {
+        "dependencies": {
+          "SharpNetCraft": "1.0.0"
+        },
+        "runtime": {
+          "SharpNetCraftTest.dll": {}
+        }
+      },
+      "SharpNetCraft/1.0.0": {
+        "runtime": {
+          "SharpNetCraft.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SharpNetCraftTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharpNetCraft/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

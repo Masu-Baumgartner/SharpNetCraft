@@ -1,7 +1,6 @@
-﻿using Alex.Common.Utils;
-using Microsoft.Xna.Framework;
+﻿using System.Drawing;
 
-namespace Alex.Common.Blocks
+namespace SharpNetCraft.Utils.Data
 {
 	public interface IMaterial
 	{

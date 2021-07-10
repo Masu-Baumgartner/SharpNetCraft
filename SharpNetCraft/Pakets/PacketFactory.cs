@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.IO;
 
+using SharpNetCraft.Packets;
+
 namespace SharpNetCraft
 {
 	public class PacketFactory<TType, TStream, TPacket> where TType : IComparable<TType> where TStream : Stream where TPacket : IPacket<TStream>

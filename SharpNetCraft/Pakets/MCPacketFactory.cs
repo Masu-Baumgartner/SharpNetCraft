@@ -1,6 +1,5 @@
 ﻿using System;
 
-using SharpNetCraft.Pakets;
 using SharpNetCraft.Pakets.Login;
 using SharpNetCraft.Pakets.Play;
 using SharpNetCraft.Pakets.Status;
@@ -195,11 +194,11 @@ namespace SharpNetCraft
 			//{
 			//	ServerBound = false
 			//});
-		//	Register(ConnectionState.Play, 0x0F, () => MultiBlockChange.CreateObject());
+			//Register(ConnectionState.Play, 0x0F, () => MultiBlockChange.CreateObject());
 			
-			Register(ConnectionState.Play, 0x11, () => PongPacket.CreateObject());
-			Register(ConnectionState.Play, 0x12, () => PongPacket.CreateObject());
-			//Register(ConnectionState.Play, 0x11, () => WindowConfirmationPacket.CreateObject());
+			//Register(ConnectionState.Play, 0x11, () => PongPacket.CreateObject());
+			//Register(ConnectionState.Play, 0x12, () => PongPacket.CreateObject());
+			Register(ConnectionState.Play, 0x11, () => WindowConfirmationPacket.CreateObject());
 			Register(ConnectionState.Play, 0x13, () => CloseWindowPacket.CreateObject());
 			Register(ConnectionState.Play, 0x14, () => WindowItems.CreateObject());
 			Register(ConnectionState.Play, 0x16, () => SetSlot.CreateObject());

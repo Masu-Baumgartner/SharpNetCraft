@@ -1,4 +1,4 @@
-using SharpNetCraft.Utils
+using SharpNetCraft.Utils;
 using SharpNetCraft.Utils.Math;
 
 namespace SharpNetCraft.Pakets.Play

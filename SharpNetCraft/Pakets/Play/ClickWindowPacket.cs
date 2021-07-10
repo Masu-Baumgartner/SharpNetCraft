@@ -1,7 +1,7 @@
-using Alex.Common.Data;
-using SharpNetCraft.Utils
+using SharpNetCraft.Utils;
+using SharpNetCraft.Utils.Data;
 
-namespace using SharpNetCraft.Pakets.Play
+namespace SharpNetCraft.Pakets.Play
 {
     public class ClickWindowPacket : Packet<ClickWindowPacket>
     {

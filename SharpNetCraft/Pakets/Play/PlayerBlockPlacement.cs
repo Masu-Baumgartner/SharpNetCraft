@@ -1,5 +1,6 @@
 ﻿using System;
-using SharpNetCraft.Utils
+
+using SharpNetCraft.Utils;
 using SharpNetCraft.Utils.Data;
 using SharpNetCraft.Utils.Math;
 

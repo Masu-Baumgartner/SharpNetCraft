@@ -23,7 +23,7 @@ namespace SharpNetCraft
     {        
         private CancellationTokenSource CancellationToken { get; }
         private TcpClient Client { get; set; }
-        public IPacketHandler PacketHandler { get; set; } = new DefaultPacketHandler();
+        public IPacketHandler PacketHandler { get; set; }
         private IPEndPoint TargetEndpoint { get; }
 		public NetConnection(IPEndPoint targetEndpoint, CancellationToken cancellationToken)
 		{
@@ -386,7 +386,7 @@ namespace SharpNetCraft
 					    using (MinecraftStream a = new MinecraftStream(CancellationToken.Token))
 					    {
 						    using (ZLibStream outZStream = new ZLibStream(
-							    a, CompressionMode.Decompress, true))
+							    a, CompressionMode.Compress, true))
 						    {
 							    outZStream.Write(data);
 							    //  outZStream.Write(data, 0, data.Length);
@@ -541,9 +541,9 @@ namespace SharpNetCraft
 						    using (ZLibStream outZStream = new ZLibStream(
 							    mc, CompressionMode.Compress, true))
 						    {
-							    outZStream.Write(encodedPacket, 0, encodedPacket.Length);
+								outZStream.Write(encodedPacket, 0, encodedPacket.Length);
 						    }
-						    // mc.Write(compressed);
+						    //mc.Write(compressed);
 					    }
 					    else //Uncompressed
 					    {

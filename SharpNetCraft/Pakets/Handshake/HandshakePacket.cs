@@ -1,6 +1,6 @@
 ﻿using SharpNetCraft.Utils;
 
-namespace SharpNetCraft.Packets.Handshake
+namespace SharpNetCraft.Pakets.Handshake
 {
 	public class HandshakePacket : Packet<HandshakePacket>
 	{

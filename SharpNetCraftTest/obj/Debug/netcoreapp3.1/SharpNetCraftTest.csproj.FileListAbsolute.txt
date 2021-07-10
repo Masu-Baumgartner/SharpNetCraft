@@ -1,0 +1,16 @@
+C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraftTest\bin\Debug\netcoreapp3.1\SharpNetCraftTest.exe
+C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraftTest\bin\Debug\netcoreapp3.1\SharpNetCraftTest.deps.json
+C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraftTest\bin\Debug\netcoreapp3.1\SharpNetCraftTest.runtimeconfig.json
+C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraftTest\bin\Debug\netcoreapp3.1\SharpNetCraftTest.runtimeconfig.dev.json
+C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraftTest\bin\Debug\netcoreapp3.1\SharpNetCraftTest.dll
+C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraftTest\bin\Debug\netcoreapp3.1\SharpNetCraftTest.pdb
+C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraftTest\bin\Debug\netcoreapp3.1\SharpNetCraft.dll
+C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraftTest\bin\Debug\netcoreapp3.1\SharpNetCraft.pdb
+C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraftTest\obj\Debug\netcoreapp3.1\SharpNetCraftTest.csprojAssemblyReference.cache
+C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraftTest\obj\Debug\netcoreapp3.1\SharpNetCraftTest.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraftTest\obj\Debug\netcoreapp3.1\SharpNetCraftTest.AssemblyInfo.cs
+C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraftTest\obj\Debug\netcoreapp3.1\SharpNetCraftTest.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraftTest\obj\Debug\netcoreapp3.1\SharpNetCraftTest.csproj.CopyComplete
+C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraftTest\obj\Debug\netcoreapp3.1\SharpNetCraftTest.dll
+C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraftTest\obj\Debug\netcoreapp3.1\SharpNetCraftTest.pdb
+C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraftTest\obj\Debug\netcoreapp3.1\SharpNetCraftTest.genruntimeconfig.cache
