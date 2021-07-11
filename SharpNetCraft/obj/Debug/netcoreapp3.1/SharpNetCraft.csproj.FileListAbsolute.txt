@@ -6,3 +6,4 @@ C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraft\bin\Debug\netcoreapp3.1\
 C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraft\bin\Debug\netcoreapp3.1\SharpNetCraft.pdb
 C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraft\obj\Debug\netcoreapp3.1\SharpNetCraft.dll
 C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraft\obj\Debug\netcoreapp3.1\SharpNetCraft.pdb
+C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraft\obj\Debug\netcoreapp3.1\SharpNetCraft.csprojAssemblyReference.cache

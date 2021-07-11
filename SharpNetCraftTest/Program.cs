@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Net;
-using System.Threading;
 
 using SharpNetCraft;
 
@@ -8,7 +6,7 @@ namespace SharpNetCraftTest
 {
     public class Program
     {
-        public static MinecraftUser user;
+        public static MinecraftClient user;
         static void Main(string[] args)
         {
             Logger.SetLogger(new MyLogger());
@@ -16,8 +14,10 @@ namespace SharpNetCraftTest
 
             Logger.GetLogger().Info("Starting ...");
 
-            user = new MinecraftUser();
+            user = new MinecraftClient();
             user.hook = new MyHook();
+
+            user.SetOfflineUsername("Test1");
 
             user.Connect("127.0.0.1", 25565);
 

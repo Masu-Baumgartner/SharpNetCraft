@@ -10,11 +10,11 @@ using SharpNetCraft.Utils.Provider;
 
 namespace SharpNetCraft
 {
-    public class NetworkProvider
+    public class ActionProvider
     {
         private NetConnection Client { get; }
         private HighPrecisionTimer NetworkReportTimer { get; }
-        public NetworkProvider(NetConnection client)
+        public ActionProvider(NetConnection client)
         {
             Client = client;
 

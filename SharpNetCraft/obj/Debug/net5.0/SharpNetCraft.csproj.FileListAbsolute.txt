@@ -3,3 +3,10 @@ C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraft\obj\Debug\net5.0\SharpNe
 C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraft\obj\Debug\net5.0\SharpNetCraft.AssemblyInfoInputs.cache
 C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraft\obj\Debug\net5.0\SharpNetCraft.AssemblyInfo.cs
 C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraft\obj\Debug\net5.0\SharpNetCraft.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraft\bin\Debug\net5.0\SharpNetCraft.deps.json
+C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraft\bin\Debug\net5.0\SharpNetCraft.dll
+C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraft\bin\Debug\net5.0\ref\SharpNetCraft.dll
+C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraft\bin\Debug\net5.0\SharpNetCraft.pdb
+C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraft\obj\Debug\net5.0\SharpNetCraft.dll
+C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraft\obj\Debug\net5.0\ref\SharpNetCraft.dll
+C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraft\obj\Debug\net5.0\SharpNetCraft.pdb
