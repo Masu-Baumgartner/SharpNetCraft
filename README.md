@@ -84,3 +84,6 @@ I will update it when 1.18 comes out
 
 ### Download ###
 You can download the dll in the release tab
+
+In order to run this you eventually need Newtonsoft.json
+so its included in the release files
