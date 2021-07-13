@@ -6,7 +6,7 @@ namespace SharpNetCraftTest
 {
     public class Program
     {
-        public static MinecraftClient user;
+        public static MinecraftClient client;
         static void Main(string[] args)
         {
             Logger.SetLogger(new MyLogger());
@@ -14,12 +14,12 @@ namespace SharpNetCraftTest
 
             Logger.GetLogger().Info("Starting ...");
 
-            user = new MinecraftClient();
-            user.hook = new MyHook();
+            client = new MinecraftClient();
+            client.hook = new MyHook();
 
-            user.SetOfflineUsername("Test1");
+            client.SetOfflineUsername("Test2");
 
-            user.Connect("127.0.0.1", 25565);
+            client.Connect("127.0.0.1", 25565);
 
             Console.ReadLine();
         }

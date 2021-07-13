@@ -1,13 +1,12 @@
 ﻿using SharpNetCraft;
 using SharpNetCraft.Pakets;
-using SharpNetCraft.Pakets.Login;
 using SharpNetCraft.Pakets.Play;
 
 namespace SharpNetCraftTest
 {
     public class MyHook : IPacketHandler
     {
-        private static float lastHealth = 0f;
+        private static float lastHealth = -1f;
         public void HandleHandshake(Packet packet)
         {
             
@@ -25,7 +24,7 @@ namespace SharpNetCraftTest
                 UpdateHealthPacket hup = (UpdateHealthPacket)packet;
                 if(hup.Health != lastHealth)
                 {
-                    Program.user.actionProvider.SendChatMessage("Debug: My health is: " + hup.Health);
+                    Program.client.actionProvider.SendChatMessage("Debug: My health is: " + hup.Health);
                     lastHealth = hup.Health;
                 }
             }

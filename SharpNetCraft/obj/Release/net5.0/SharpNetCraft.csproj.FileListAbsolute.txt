@@ -1,0 +1,5 @@
+C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraft\obj\Release\net5.0\SharpNetCraft.csprojAssemblyReference.cache
+C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraft\obj\Release\net5.0\SharpNetCraft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraft\obj\Release\net5.0\SharpNetCraft.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraft\obj\Release\net5.0\SharpNetCraft.AssemblyInfo.cs
+C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraft\obj\Release\net5.0\SharpNetCraft.csproj.CoreCompileInputs.cache

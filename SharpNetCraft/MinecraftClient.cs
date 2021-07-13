@@ -203,7 +203,17 @@ namespace SharpNetCraft
 
         public void Connect(string host, int port)
         {
-            Endpoint = IPEndPoint.Parse(host + ":" + port);
+            IPAddress ip = null;
+            try
+            {
+                ip = IPAddress.Parse(host);
+            }
+            catch(Exception e)
+            {
+                IPHostEntry iPHostEntry = Dns.GetHostEntry(host);
+                ip = iPHostEntry.AddressList[0];
+            }
+            Endpoint = new IPEndPoint(ip, port);
             Client = new NetConnection(Endpoint, CancellationToken.None);
             Client.PacketHandler = this;
             Client.OnConnectionClosed += OnConnectionClosed;
