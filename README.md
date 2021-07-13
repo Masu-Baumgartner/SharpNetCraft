@@ -41,6 +41,7 @@ client.Connect("127.0.0.1", 25565);
 
 #### Reading incomming packets ####
 For reading packets you need to create a hook aka. a packethandler
+
 Example:
 ```csharp
 public class MyHook : IPacketHandler
@@ -78,4 +79,8 @@ client.hook = new MyHook();
 
 ### Minecraft Version ###
 This project is for the minecraft version 1.17
+
 I will update it when 1.18 comes out
+
+### Download ###
+You can download the dll in the release tab
