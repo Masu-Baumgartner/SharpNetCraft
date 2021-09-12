@@ -1,3 +1,6 @@
+#Attention
+I started a new project (currently private on github) where @Dalk-Github and i creating a full client library for minecraft java servers but with an integrated api for setting blocks etc. so its easier to create a own mc client in c#
+
 # SharpNetCraft
 A minecraft protocol library in C#
 
