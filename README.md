@@ -34,7 +34,7 @@ client.SetOfflineUsername("Test User");
 client.Connect("127.0.0.1", 25565);
 ```
 
-#### Connect to a server (Onlineode Server) ####
+#### Connect to a server (OnlineMode Server) ####
 ```csharp
 MCPacketFactory.Load();
 MinecraftClient client = new MinecraftClient();
