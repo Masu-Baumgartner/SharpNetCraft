@@ -1,9 +1,0 @@
-C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraft\obj\Debug\netcoreapp3.1\SharpNetCraft.AssemblyInfoInputs.cache
-C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraft\obj\Debug\netcoreapp3.1\SharpNetCraft.AssemblyInfo.cs
-C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraft\obj\Debug\netcoreapp3.1\SharpNetCraft.csproj.CoreCompileInputs.cache
-C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraft\bin\Debug\netcoreapp3.1\SharpNetCraft.deps.json
-C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraft\bin\Debug\netcoreapp3.1\SharpNetCraft.dll
-C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraft\bin\Debug\netcoreapp3.1\SharpNetCraft.pdb
-C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraft\obj\Debug\netcoreapp3.1\SharpNetCraft.dll
-C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraft\obj\Debug\netcoreapp3.1\SharpNetCraft.pdb
-C:\Users\marce\source\repos\SharpNetCraft\SharpNetCraft\obj\Debug\netcoreapp3.1\SharpNetCraft.csprojAssemblyReference.cache
