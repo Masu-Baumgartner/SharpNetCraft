@@ -14,10 +14,10 @@
 
   <ItemGroup>
     <Folder Include="Xternal\MiNet\" />
-    <Folder Include="Xternal\Org.BouncyCastle.Crypto\" />
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="BouncyCastle" Version="1.8.9" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
   </ItemGroup>
 
