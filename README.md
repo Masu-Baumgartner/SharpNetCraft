@@ -1,5 +1,7 @@
 # Attention #
-I started a new project (currently private on github) where @Dalk-Github and i creating a full client library for minecraft java servers but with an integrated api for placing blocks etc. so its easier to create your own mc client in c#
+New Project with more optimised and cleaner structure
+
+> https://github.com/Marcel-Baumgartner/MCSharp
 
 # SharpNetCraft
 A minecraft protocol library in C#
@@ -83,7 +85,7 @@ client.hook = new MyHook();
 ### Minecraft Version ###
 This project is for the minecraft version 1.17
 
-I will update it when 1.18 comes out
+For 1.18 see https://github.com/Marcel-Baumgartner/MCSharp
 
 ### Download ###
 You can download the dll in the release tab
